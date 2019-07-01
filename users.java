@@ -1,1 +1,1 @@
-Hi, this file contains users informations
+Hi, this file contains users information only
